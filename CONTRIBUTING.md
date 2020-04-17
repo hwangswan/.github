@@ -19,7 +19,7 @@ The issue templates is updating.
 
 ## 4. Notable Contributor
 
-|     Contributor  |                GitHub                  | Role                          |
-|:-----------------|:---------------------------------------|:------------------------------|
-|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)|Staff                          |
-| meadoge          |[@meadoge](https://github.com/meadoge)  |Staff                          |
+|     Contributor  |                GitHub                  | Role | Team                     |
+|:-----------------|:---------------------------------------|:-----|:-------------------------|
+|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)|Staff | AS101 (Maintainer), DT101|
+| meadoge          |[@meadoge](https://github.com/meadoge)  |Staff | AS101, DT101 (Maintainer)|
