@@ -1,4 +1,6 @@
-# Welcome to The Contributing Guide of GU Bot!
+# Welcome to Không Sợ Mèo's Contributing Guide!
+
+_This is used for all Không Sợ Mèo's repositories you are allowed to working with_
 
 ## 1. Code of Conducts
 Please read [the Code of Conducts (CoC)](https://github.com/trhgquan/gu-bot/blob/master/.github/CODE_OF_CONDUCT.md) carefully before taking any further actions.
@@ -19,5 +21,5 @@ The issue templates is updating.
 
 |     Contributor  |                GitHub                  | Role                          |
 |:-----------------|:---------------------------------------|:------------------------------|
-|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)|Staff, Original Author         |
-| meadoge          |[@meadoge](https://github.com/meadoge)  |Staff, Most-contributing Author|
+|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)|Staff                          |
+| meadoge          |[@meadoge](https://github.com/meadoge)  |Staff                          |
