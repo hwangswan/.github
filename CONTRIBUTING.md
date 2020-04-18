@@ -13,7 +13,7 @@ When your tasks is done, create a Pull Request. Your team will do a review, then
 _Small tips_: tag the staff so your PR can be reviewed faster.
 
 ## 3. Issues
-You are free to report any issue / create new issue to suggest new fixture. Just make sure you tag our staff at the end of issue so we can notice it faster.
+You are free to report any issue / create new issue to suggest new features. Just make sure you tag our staff at the end of issue so we can notice it faster.
 
 The issue templates is updating.
 
