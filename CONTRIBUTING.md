@@ -2,7 +2,7 @@
 
 _This is used for all Không Sợ Mèo's repositories you are allowed to working with_
 
-## 1. Code of Conducts
+## 1. Code of Conduct
 Please read [the Code of Conduct (CoC)](https://github.com/khongsomeo/blob/master/.github/CODE_OF_CONDUCT.md) carefully before taking any further actions.
 
 ## 2. Contributing
