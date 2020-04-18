@@ -3,7 +3,7 @@
 _This is used for all Không Sợ Mèo's repositories you are allowed to working with_
 
 ## 1. Code of Conducts
-Please read [the Code of Conduct (CoC)](https://github.com/trhgquan/gu-bot/blob/master/.github/CODE_OF_CONDUCT.md) carefully before taking any further actions.
+Please read [the Code of Conduct (CoC)](https://github.com/khongsomeo/blob/master/.github/CODE_OF_CONDUCT.md) carefully before taking any further actions.
 
 ## 2. Contributing
 When you are given access to the repository, __fork it__ since we don't allow teams member to have a _write_ permission.
