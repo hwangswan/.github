@@ -10,6 +10,8 @@ When you are given access to the repository, __fork it__ since we don't allow te
 
 When your tasks is done, create a Pull Request. Your team will do a review, then our staff will do a final review. After that, if it passed every single review then we will merge into master.
 
+Your Pull Request should follow the [Pull Request Template](https://github.com/khongsomeo/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+
 _Small tips_: tag the staff so your PR can be reviewed faster.
 
 ## 3. Issues
