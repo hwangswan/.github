@@ -1,27 +1,22 @@
 # Pull Request Name
-## Description
+## 1. Description
 Some further description for your Pull Request.
 
-## List of issues fixed: (issues id goes here)
-- [x] __Problem 1: Problem Name.__
+## 2. List of issues fixed:
+(Issue ids went here)
 
-  Problem 1 description goes here.
+Details:
+- [x] __Problem 1: Name of Problem 1, from issue no.__
+  - Details of Problem 1.
+  - Attempts to fix Problem 1.
+  
+- [ ] __Problem 2: Name of Problem 2, from issue no.__
+  - Details of Problem 2.
+  - Attempts to fix Problem 2.
+  
+(add more here).
 
-- [x] __Problem 2: Problem Name.__
-
-  Problem 2 description goes here.
-
-- [ ] __Problem 3: Problem Name.__
-
-  Problem 3 description goes here. This is an example for uncheck aka unsolve problem.
-
-- [ ] __~~Problem 4: Problem Name - dissolved.~~__
-
-  Problem 4 description goes here. This is an example for dissolved problem, reason to dissolve is written here.
-
-... (add more here)
-
-## Further things to notice:
+## 3. Further things to notice:
 
 (add here)
 
