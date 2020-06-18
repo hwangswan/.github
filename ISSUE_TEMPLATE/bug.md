@@ -1,9 +1,9 @@
 ---
-name: Report a bug
-about: Report a bug appeared during program execution/
+name: Report a bug.
+about: Report a bug appeared during program execution.
 title: "[bug] bug report"
 labels: bug
-assignees: meadoge
+assignees: ''
 ---
 
 # Report a bug
