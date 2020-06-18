@@ -1,7 +1,7 @@
 ---
 name: Report a bug
 about: Report a bug appeared during program execution/
-title: '[BUG] APP_NAME: BUG_NAME'
+title: "[DATE]: short-describing your bug"
 labels: bug
 assignees: meadoge
 ---
