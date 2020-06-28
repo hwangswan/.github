@@ -1,20 +1,19 @@
 ---
 name: Feature request
-about: Request a new feature / enhancement
+about: Request a new feature
 title: "[FEATURE]"
 labels: enhancement
 
 ---
 
-# Request a new feature
+# Name of new feature
 
-To request a new feature: follow these steps.
+- __Project__: (name of the project to add new feature)
 
-## Steps to request a new feature.
-1. Which project are you requesting new feature?
-2. Describe features you want to add.
+- __Suggestions__:
 
-## Further ways to contribute a new feature.
-Fork that project's repository and do what you want! After that, create a Pull Request and in the __List of issues fixed__, mention this issue id.
+  (Feel free to add your suggestions here).
 
-Thank you for your contribution!
+- __Team mention__:
+
+  (Mention the project's responsible team here).
