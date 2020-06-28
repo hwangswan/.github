@@ -26,4 +26,4 @@ labels: bug
 
 - __Team mentioning__:
 
-  Mention support team / development team here.
+  (Mention the project's responsible team here).
