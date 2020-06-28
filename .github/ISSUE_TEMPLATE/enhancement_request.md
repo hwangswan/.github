@@ -1,6 +1,6 @@
 ---
 name: Enhancement request
-about: Code needs enhancement! Tell us what to improve!
+about: Code needs enhancement? Tell us what to improve!
 title: "[ENHANCEMENT]"
 labels: enhancement
 
