@@ -6,9 +6,9 @@ labels: enhancement
 
 ---
 
-# Name of new feature
+# Name of a new feature
 
-- __Project__: (name of the project to add new feature)
+- __Project__: (name of the project to add a new feature)
 
 - __Suggestions__:
 
@@ -16,4 +16,4 @@ labels: enhancement
 
 - __Team mention__:
 
-  (Mention the project's responsible team here).
+  (Mention the project's response team here).

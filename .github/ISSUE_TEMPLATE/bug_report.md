@@ -12,7 +12,7 @@ labels: bug
 
 - __Critical rank__: [Not critical / Average / Critical].
 
-- __If the bug happened in a issue before but still not being fixed yet, mention the issue here__:
+- __If the bug happened in an issue before but still not fixed yet, mention the issue here__:
 
   (List of issues created).
 
@@ -26,4 +26,4 @@ labels: bug
 
 - __Team mentioning__:
 
-  (Mention the project's responsible team here).
+  (Mention the project's response team here).

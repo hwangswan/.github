@@ -16,4 +16,4 @@ labels: enhancement
 
 - __Team mention__:
 
-  (Mention the project's responsible team here).
+  (Mention the project's response team here).
