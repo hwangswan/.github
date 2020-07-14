@@ -23,6 +23,6 @@ The issue templates is updating.
 
 |     Contributor  |                GitHub                    | Role | Team                     |
 |:-----------------|:-----------------------------------------|:-----|:-------------------------|
-|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)  |Staff | AS101 (Maintainer), DT101|
+|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)  |Admin | AS101 (Maintainer), DT101|
 | meadoge          |[@meadoge](https://github.com/meadoge)    |Staff | AS101, DT101 (Maintainer)|
 | Hwang Shi Wan    |[@hwangswan](https://github.com/hwangswan)|Staff | DT101                    |
