@@ -25,8 +25,8 @@ Issue template depending on your working repository. Please check on `Issues` ta
 
 ## 4. Notable Contributor
 
-|     Contributor  |                GitHub                    | Role | Team                     |
-|:-----------------|:-----------------------------------------|:-----|:-------------------------|
-|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)  |Admin | AS101 (Maintainer), DT101|
-| meadoge          |[@meadoge](https://github.com/meadoge)    |Staff | AS101, DT101 (Maintainer)|
-| Hwang Shi Wan    |[@hwangswan](https://github.com/hwangswan)|Staff | DT101                    |
+|     Contributor  |                GitHub                    | Role | Team                                  |
+|:-----------------|:-----------------------------------------|:-----|:--------------------------------------|
+|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)  |Admin | AS101 (Maintainer), DT101 (Maintainer)|
+| meadoge          |[@meadoge](https://github.com/meadoge)    |Staff | AS101                                 |
+| Hwang Shi Wan    |[@hwangswan](https://github.com/hwangswan)|Staff | DT101                                 |
