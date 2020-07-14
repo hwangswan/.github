@@ -17,7 +17,11 @@ _Small tips_: tag the staff so your PR can be reviewed faster.
 ## 3. Issues
 You are free to report any issue / create new issue to suggest new features. Just make sure you tag our staff at the end of issue so we can notice it faster.
 
-The issue templates is updating.
+For the issue templates: the are several types of issue templates that focus on different tags. You can use it for quick report (bugs, enhancement, ..etc).
+
+If your issue doesn't have a template, just create a new issue instead.
+
+Issue template depending on your working repository. Please check on `Issues` tab for further details.
 
 ## 4. Notable Contributor
 
