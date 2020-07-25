@@ -6,7 +6,7 @@ labels: enhancement
 
 ---
 
-# Name of a new feature
+# Feature Request
 
 - __Project__: (name of the project to add a new feature)
 
