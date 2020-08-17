@@ -8,12 +8,12 @@ labels: enhancement
 
 # Enhancement Request
 
-- __Project__: (name of the project).
+### 1. Project: [project_name](https://example.com/project_link).
 
-- __Tell us what to improve!__:
+### 2. Tell us what to improve!:
 
-  (Things go here. Remember to add some example if the improvements include code).
+(Things went here. Remember to add some example if the improvements include code).
 
-- __Team mention__:
+### 3. Team mention:
 
-  (Mention the project's response team here).
+(Mention the project's response team here).
