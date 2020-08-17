@@ -8,12 +8,12 @@ labels: enhancement
 
 # Feature Request
 
-- __Project__: (name of the project to add a new feature)
+### 1. Project: [project_name](https://example.com/project_link).
 
-- __Suggestions__:
+### 2. Suggestions:
 
-  (Feel free to add your suggestions here).
+(Feel free to add your suggestions here).
 
-- __Team mention__:
+### 3. Team mention:
 
-  (Mention the project's response team here).
+(Mention the project's response team here).
