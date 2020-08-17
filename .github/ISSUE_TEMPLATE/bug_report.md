@@ -24,6 +24,6 @@ labels: bug
 
 (Insert images, videos or describe how can we re-create that bug).
 
-__Team mentioning__:
+### 6. Team mentioning:
 
 (Mention the project's response team here).
