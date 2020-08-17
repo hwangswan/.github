@@ -8,22 +8,22 @@ labels: bug
 
 # Bug report
 
-- __Project__: _project_name_.
+### 1. Project: [project_name](https://example.com/project_link).
 
-- __Critical rank__: [Not critical / Average / Critical].
+### 2. Critical rank: [Not critical / Average / Critical].
 
-- __If the bug happened in an issue before but still not fixed yet, mention the issue here__:
+### 3. If the bug happened in an issue before but still not fixed yet, mention the issue here:
 
-  (List of issues created).
+(List of issues created).
 
-- __Short describe__:
+### 4. Short describe:
 
-  (Short-describe the bug here).
+(Short-describe the bug here).
 
-- __Proof__:
+### 5. Proof:
 
-  (Insert images, videos or describe how can we re-create that bug).
+(Insert images, videos or describe how can we re-create that bug).
 
-- __Team mentioning__:
+__Team mentioning__:
 
-  (Mention the project's response team here).
+(Mention the project's response team here).
