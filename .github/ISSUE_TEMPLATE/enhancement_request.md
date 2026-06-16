@@ -1,19 +1,34 @@
 ---
 name: Enhancement request
-about: Code needs enhancement? Tell us what to improve!
-title: "[ENHANCEMENT]"
+about: Suggest an improvement to existing features or codebase.
+title: '[ENHANCEMENT] '
 labels: enhancement
+assignees: ''
 
 ---
 
-# Enhancement Request
+## Enhancement Description
+A clear and concise description of what needs enhancement and why.
 
-### 1. Project: [project_name](https://example.com/project_link).
+## Proposed Improvement
+Describe the changes or improvements you would like to see.
+*Note: If the improvement includes code, please provide code examples or pseudocode below.*
 
-### 2. Tell us what to improve!:
+```code
+// Example or pseudocode goes here
+```
 
-(Things went here. Remember to add some example if the improvements include code).
+## Project Details
+- **Project Name/URL**: 
 
-### 3. Team mention:
+## Expected Impact
+Describe how this enhancement will improve the project or user experience.
 
-(Mention the project's response team here).
+## Additional Context
+Add any other context, screenshots, or references here.
+
+## Assign / Tag Staff
+Please tag the project's response team / staff below:
+- Admin/Maintainers: @trhgquan
+- Staff: @meadoge
+- Staff: @hwangswan

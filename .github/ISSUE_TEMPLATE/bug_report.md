@@ -1,29 +1,39 @@
 ---
 name: Bug report
-about: Shit happens anytime. Report it to us!
-title: "[BUG]"
+about: Report a bug or unexpected behavior to help us improve.
+title: '[BUG] '
 labels: bug
+assignees: ''
 
 ---
 
-# Bug report
+## Bug Description
+A clear and concise description of what the bug is.
 
-### 1. Project: [project_name](https://example.com/project_link).
+## Steps to Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
 
-### 2. Critical rank: [Not critical / Average / Critical].
+## Expected Behavior
+A clear and concise description of what you expected to happen.
 
-### 3. If the bug happened in an issue before but still not fixed yet, mention the issue here:
+## Proof / Screenshots
+If applicable, add screenshots, video recordings, or log outputs to help explain the problem.
 
-(List of issues created).
+## Environment Details
+- **Project Name/URL**: 
+- **Operating System / Device**: (e.g., Windows 11, macOS, Android, iOS)
+- **Browser / Environment**: (e.g., Chrome 120, Node.js 18, React Native)
+- **Critical Rank**: [Not critical / Average / Critical]
 
-### 4. Short describe:
+## Additional Context / Related Issues
+Add any other context about the problem here, or mention related issues (if any).
 
-(Short-describe the bug here).
-
-### 5. Proof:
-
-(Insert images, videos or describe how can we re-create that bug).
-
-### 6. Team mentioning:
-
-(Mention the project's response team here).
+## Assign / Tag Staff
+Please tag the project's response team / staff below:
+- Admin/Maintainers: @trhgquan
+- Staff: @meadoge
+- Staff: @hwangswan

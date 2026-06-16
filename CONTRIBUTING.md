@@ -1,32 +1,37 @@
-# Welcome to Không Sợ Mèo's Contributing Guide!
+# Contributing Guide
 
-_This is used for all Không Sợ Mèo's repositories you are allowed to working with_
+Welcome to the central repository for the organization's templates and guidelines. We appreciate interest in our projects! Please read this guide carefully to understand our workflows, coding standards, and review processes.
 
 ## 1. Code of Conduct
-Please read [the Code of Conduct (CoC)](https://github.com/khongsomeo/blob/master/.github/CODE_OF_CONDUCT.md) carefully before taking any further actions.
 
-## 2. Contributing
-When you are given access to the repository, __fork it__ since we don't allow teams member to have a _write_ permission.
+Before participating, please review our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors and team members to follow these standards to ensure a welcoming and safe environment.
 
-When your tasks is done, create a Pull Request. Your team will do a review, then our staff will do a final review. After that, if it passed every single review then we will merge into master.
+## 2. General Workflow
 
-Your Pull Request should follow the [Pull Request Template](https://github.com/khongsomeo/.github/blob/master/PULL_REQUEST_TEMPLATE.md).
+Since we restrict direct write permissions to our repositories, all contributions must follow a fork-and-pull model:
 
-_Small tips_: tag the staff so your PR can be reviewed faster.
+1. **Fork the Repository**: Create a personal copy of the repository under your own GitHub account.
+2. **Clone & Branch**: Clone your fork locally and create a new feature branch for your changes:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make Changes**: Implement your changes, ensuring your code matches project guidelines.
+4. **Commit**: Keep your commit messages clear, descriptive, and linked to related issues:
+   ```bash
+   git commit -m "feat: resolve bug where template labels were missing (#12)"
+   ```
+5. **Push & Pull Request**: Push your branch to your fork and submit a Pull Request (PR) to our master branch.
+6. **Review**: The team will review your code. Once approved by the core staff, it will be merged.
 
-## 3. Issues
-You are free to report any issue / create new issue to suggest new features. Just make sure you tag our staff at the end of issue so we can notice it faster.
+## 3. Creating Issues & Pull Requests
 
-For the issue templates: the are several types of issue templates that focus on different tags. You can use it for quick report (bugs, enhancement, ..etc).
+When reporting issues or proposing changes, please use the provided templates:
+- **Bug Reports**: Use the [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md) and include steps to reproduce, expected behavior, and environment details.
+- **Feature Requests**: Use the [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md) to detail proposed features and alternatives.
+- **Refactoring & Documentation**: Use the [Refactoring](.github/ISSUE_TEMPLATE/refactoring.md) or [Documentation](.github/ISSUE_TEMPLATE/documentation.md) templates respectively.
+- **Pull Requests**: Follow the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) and ensure all checklist items are met.
 
-If your issue doesn't have a template, just create a new issue instead.
+---
 
-Issue template depending on your working repository. Please check on `Issues` tab for further details.
-
-## 4. Notable Contributor
-
-|     Contributor  |                GitHub                    | Role | Team                                  |
-|:-----------------|:-----------------------------------------|:-----|:--------------------------------------|
-|  Quan, Tran Hoang|[@trhgquan](https://github.com/trhgquan)  |Admin | AS101 (Maintainer), DT101 (Maintainer)|
-| meadoge          |[@meadoge](https://github.com/meadoge)    |Staff | AS101                                 |
-| Hwang Shi Wan    |[@hwangswan](https://github.com/hwangswan)|Staff | DT101                                 |
+> [!NOTE]
+> Also, please notice that we are not normally open for contribution from outsiders, so, thank for your opinion (it doesn't matter).
