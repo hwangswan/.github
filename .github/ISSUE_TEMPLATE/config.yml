@@ -1,8 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Questions & Discussion
-    url: https://github.com/khongsomeo/.github/discussions
-    about: If you have general questions or want to discuss ideas, please use GitHub Discussions.
-  - name: Security Vulnerability Reporting
-    url: https://github.com/khongsomeo/.github/security/policy
-    about: To report a security vulnerability, please refer to our Security Policy.

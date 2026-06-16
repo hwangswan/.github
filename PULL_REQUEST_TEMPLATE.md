@@ -40,8 +40,3 @@ Before submitting, please ensure:
 - [ ] My changes generate no new warnings.
 - [ ] Any dependent changes have been merged and published in downstream modules.
 
-## 6. Reviewers & Staff Mention
-Tag the staff members to notify them for review:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan

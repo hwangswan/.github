@@ -27,8 +27,3 @@ Describe how this enhancement will improve the project or user experience.
 ## Additional Context
 Add any other context, screenshots, or references here.
 
-## Assign / Tag Staff
-Please tag the project's response team / staff below:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan

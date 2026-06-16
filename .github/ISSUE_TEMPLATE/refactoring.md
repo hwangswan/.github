@@ -19,8 +19,3 @@ Why should we refactor this? (e.g., performance improvement, readability, test c
 ## Potential Impact / Risks
 Are there any potential breaking changes, side effects, or impact on existing functionality?
 
-## Assign / Tag Staff
-Please tag the project's response team / staff below:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan

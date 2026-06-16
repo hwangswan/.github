@@ -16,8 +16,3 @@ Describe the issue with the current documentation (e.g., outdated commands, typo
 ## Proposed Correction / Improvement
 Provide the corrected text, new commands, or updated guide.
 
-## Assign / Tag Staff
-Please tag the project's response team / staff below:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan

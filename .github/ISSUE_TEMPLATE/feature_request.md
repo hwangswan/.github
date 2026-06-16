@@ -25,8 +25,3 @@ A clear and concise description of any alternative solutions or features you've 
 ## Additional Context
 Add any other context, mockups, or screenshots about the feature request here.
 
-## Assign / Tag Staff
-Please tag the project's response team / staff below:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan

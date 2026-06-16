@@ -27,13 +27,7 @@ If applicable, add screenshots, video recordings, or log outputs to help explain
 - **Project Name/URL**: 
 - **Operating System / Device**: (e.g., Windows 11, macOS, Android, iOS)
 - **Browser / Environment**: (e.g., Chrome 120, Node.js 18, React Native)
-- **Critical Rank**: [Not critical / Average / Critical]
 
 ## Additional Context / Related Issues
 Add any other context about the problem here, or mention related issues (if any).
 
-## Assign / Tag Staff
-Please tag the project's response team / staff below:
-- Admin/Maintainers: @trhgquan
-- Staff: @meadoge
-- Staff: @hwangswan
